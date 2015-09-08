@@ -2,7 +2,7 @@
 
 ---
 
-学习ReactiveCocoa(主要针对2.x版本)过程中整理的一些资料。
+学习ReactiveCocoa(主要针对2.x Objective-C 版本)过程中整理的一些资料。
 
 ##学习资料
 
@@ -96,9 +96,12 @@ scottlogic
 ##开源项目
 ---
 * Reactivecocoa官方文档中推荐项目 [GroceryList](https://github.com/jspahrsummers/GroceryList)
+* 同为Reactivecocoa官方文档中推荐项目 [C-41](https://github.com/AshFurrow/C-41)
+* 
 
 ##其他资源
 
 * [RAC中文资源列表](https://github.com/ReactiveCocoaChina/ReactiveCocoaChineseResources)
 * [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) | [译文](http://nathanli.cn/2015/06/16/响应式编程简介/)
+* [leichunfeng/MVVMReactiveCocoa](https://github.com/leichunfeng/MVVMReactiveCocoa)
 
