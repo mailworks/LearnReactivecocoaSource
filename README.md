@@ -1,4 +1,4 @@
-#Lean ReactiveCocoa Source
+#Learn ReactiveCocoa Source
 
 ---
 
