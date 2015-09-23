@@ -93,6 +93,7 @@ scottlogic
 花瓣工程师在InfoQ上的分享([limboy](http://limboy.me)) [ReactiveCocoa在花瓣客户端的实践](http://www.infoq.com/cn/presentations/practice-of-reactivecocoa-in-huabanwang-client)
 
 ---
+
 ##开源项目
 ---
 * Reactivecocoa官方文档中推荐项目 [GroceryList](https://github.com/jspahrsummers/GroceryList)
@@ -102,6 +103,7 @@ scottlogic
 ##其他资源
 
 * [RAC中文资源列表](https://github.com/ReactiveCocoaChina/ReactiveCocoaChineseResources)
+* [Interactive diagrams for ReactiveCocoa](http://neilpa.me/rac-marbles/)
 * [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) | [译文](http://nathanli.cn/2015/06/16/响应式编程简介/)
 
 
