@@ -1,12 +1,9 @@
 #Learn ReactiveCocoa Source
 
----
 
 学习ReactiveCocoa(主要针对2.x Objective-C 版本)过程中整理的一些资料。
 
 ##学习资料
-
----
 ReactiveCocoa GitHub文档 [Documentation](https://github.com/ReactiveCocoa/ReactiveCocoa/tree/v2.5/Documentation)
 
 对应找到的几篇中文翻译
@@ -80,28 +77,24 @@ scottlogic
 * [RACSignal的Subscription深入分析](http://tech.meituan.com/RACSignalSubscription.html)
 
 ##书籍
----
+
 * [Functional Reactive Programming on iOS](https://leanpub.com/iosfrp) | | [译文](https://github.com/KevinHM/FunctionalReactiveProgrammingOniOS)
 
 
 ##Side
 
----
+
 ##视频
 
 
 花瓣工程师在InfoQ上的分享([limboy](http://limboy.me)) [ReactiveCocoa在花瓣客户端的实践](http://www.infoq.com/cn/presentations/practice-of-reactivecocoa-in-huabanwang-client)
 
----
-
 ##开源项目
----
 * Reactivecocoa官方文档中推荐项目 [GroceryList](https://github.com/jspahrsummers/GroceryList)
 * 同为Reactivecocoa官方文档中推荐项目 [C-41](https://github.com/AshFurrow/C-41)
 * [leichunfeng/MVVMReactiveCocoa](https://github.com/leichunfeng/MVVMReactiveCocoa)
 
 ##其他资源
-
 * [RAC中文资源列表](https://github.com/ReactiveCocoaChina/ReactiveCocoaChineseResources)
 * [Interactive diagrams for ReactiveCocoa](http://neilpa.me/rac-marbles/)
 * [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) | [译文](http://nathanli.cn/2015/06/16/响应式编程简介/)
