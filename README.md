@@ -82,7 +82,11 @@ scottlogic
 
 
 ##Side
+* [Learn You a ReactiveCocoa for Great Good](http://www.slideshare.net/jarsen7/learn-you-a-reactive-cocoa-for-great-good)
+*  [ReactiveCocoa NSSpain](https://speakerdeck.com/robb/reactivecocoa-nsspain)
 
+
+##issue
 
 ##视频
 
@@ -93,10 +97,10 @@ scottlogic
 * Reactivecocoa官方文档中推荐项目 [GroceryList](https://github.com/jspahrsummers/GroceryList)
 * 同为Reactivecocoa官方文档中推荐项目 [C-41](https://github.com/AshFurrow/C-41)
 * [leichunfeng/MVVMReactiveCocoa](https://github.com/leichunfeng/MVVMReactiveCocoa)
+* [BrewMobile Swift/RAC3.0](https://github.com/brewfactory/BrewMobile)
 
 ##其他资源
 * [RAC中文资源列表](https://github.com/ReactiveCocoaChina/ReactiveCocoaChineseResources)
 * [Interactive diagrams for ReactiveCocoa](http://neilpa.me/rac-marbles/)
 * [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) | [译文](http://nathanli.cn/2015/06/16/响应式编程简介/)
-
-
+* [Collection of posts/videos I've found useful while researching mvvm](https://gist.github.com/denisnazarov/16af6f5598fd32c2b9ed)
