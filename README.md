@@ -73,8 +73,10 @@ scottlogic
 
 原理剖析
 
-1. [ReactiveCocoa2 源码浅析](http://nathanli.cn/2015/08/27/reactivecocoa2-源码浅析/)
-* 美团技术团队博客文章 [RACSignal的Subscription深入分析](http://tech.meituan.com/RACSignalSubscription.html) | [细说ReactiveCocoa的冷信号与热信号](http://tech.meituan.com/talk-about-reactivecocoas-cold-signal-and-hot-signal-part-1.html)
+ 1. [ReactiveCocoa2 源码浅析](http://nathanli.cn/2015/08/27/reactivecocoa2-源码浅析/)
+ 2. 美团技术团队博客文章 
+  1. [RACSignal的Subscription深入分析](http://tech.meituan.com/RACSignalSubscription.html) 
+  2. [细说ReactiveCocoa的冷信号与热信号](http://tech.meituan.com/talk-about-reactivecocoas-cold-signal-and-hot-signal-part-1.html)
 
 ##书籍
 
