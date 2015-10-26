@@ -73,8 +73,8 @@ scottlogic
 
 原理剖析
 
-* [ReactiveCocoa2 源码浅析](http://nathanli.cn/2015/08/27/reactivecocoa2-源码浅析/)
-* [RACSignal的Subscription深入分析](http://tech.meituan.com/RACSignalSubscription.html)
+1. [ReactiveCocoa2 源码浅析](http://nathanli.cn/2015/08/27/reactivecocoa2-源码浅析/)
+* 美团技术团队博客文章 [RACSignal的Subscription深入分析](http://tech.meituan.com/RACSignalSubscription.html) | [细说ReactiveCocoa的冷信号与热信号](http://tech.meituan.com/talk-about-reactivecocoas-cold-signal-and-hot-signal-part-1.html)
 
 ##书籍
 
@@ -101,6 +101,6 @@ scottlogic
 
 ##其他资源
 * [RAC中文资源列表](https://github.com/ReactiveCocoaChina/ReactiveCocoaChineseResources)
-* [Interactive diagrams for ReactiveCocoa](http://neilpa.me/rac-marbles/)
+* [Interactive diagrams for ReactiveCocoa](http://neilpa.me/rac-marbles/) | [RxMarbles](http://rxmarbles.com/#skipLast)
 * [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) | [译文](http://nathanli.cn/2015/06/16/响应式编程简介/)
 * [Collection of posts/videos I've found useful while researching mvvm](https://gist.github.com/denisnazarov/16af6f5598fd32c2b9ed)
