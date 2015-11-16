@@ -90,10 +90,14 @@ scottlogic
 
 ##issue
 
+* [What's the difference between a subscription and an underlying subscription](https://github.com/ReactiveCocoa/ReactiveCocoa/issues/836)
+
+
 ##视频
 
 
-花瓣工程师在InfoQ上的分享([limboy](http://limboy.me)) [ReactiveCocoa在花瓣客户端的实践](http://www.infoq.com/cn/presentations/practice-of-reactivecocoa-in-huabanwang-client)
+* 花瓣工程师在InfoQ上的分享([limboy](http://limboy.me)) [ReactiveCocoa在花瓣客户端的实践](http://www.infoq.com/cn/presentations/practice-of-reactivecocoa-in-huabanwang-client)
+* [ReactiveCocoa at MobiDevDay 2013](https://vimeo.com/65637501)
 
 ##开源项目
 * Reactivecocoa官方文档中推荐项目 [GroceryList](https://github.com/jspahrsummers/GroceryList)
