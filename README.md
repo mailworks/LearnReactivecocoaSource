@@ -91,6 +91,7 @@ scottlogic
 ##issue
 
 * [What's the difference between a subscription and an underlying subscription](https://github.com/ReactiveCocoa/ReactiveCocoa/issues/836)
+* [Reminder to reset delegate & data source on UITableViewController when using rac_signalForSelector:fromProtocol:](https://github.com/ReactiveCocoa/ReactiveCocoa/issues/1121#issuecomment-35470735)
 
 
 ##视频
@@ -98,6 +99,7 @@ scottlogic
 
 * 花瓣工程师在InfoQ上的分享([limboy](http://limboy.me)) [ReactiveCocoa在花瓣客户端的实践](http://www.infoq.com/cn/presentations/practice-of-reactivecocoa-in-huabanwang-client)
 * [ReactiveCocoa at MobiDevDay 2013](https://vimeo.com/65637501)
+* [2014 GitHub Reactive Cocoa Developer Conference](https://www.youtube.com/playlist?list=PL0lo9MOBetEEXnrrP5pwZxSkGvaDBGdOC)
 
 ##开源项目
 * Reactivecocoa官方文档中推荐项目 [GroceryList](https://github.com/jspahrsummers/GroceryList)
@@ -110,3 +112,19 @@ scottlogic
 * [Interactive diagrams for ReactiveCocoa](http://neilpa.me/rac-marbles/) | [RxMarbles](http://rxmarbles.com/#skipLast)
 * [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) | [译文](http://nathanli.cn/2015/06/16/响应式编程简介/)
 * [Collection of posts/videos I've found useful while researching mvvm](https://gist.github.com/denisnazarov/16af6f5598fd32c2b9ed)
+
+#Swift Version
+* [Awesome Reactive Programming in Swift](https://github.com/SideEffects-xyz/Awesome-Reactive-Programming-Swift )
+* [ReactiveCocoa 3.0 初窥](http://ios.jobbole.com/82081/)
+* [ReactiveCocoa 3.0 初见（2）](http://ios.jobbole.com/82125/)
+* [ReactiveCocoa 3.0 in MVVM](http://blog.scottlogic.com/2015/05/15/mvvm-reactive-cocoa-3.html) | [译文](http://nathanwhy.com/2015/07/31/2015-07-31-ReactiveCocoa-3.0-in-MVVM/)
+* [Adventures with RAC 3.0 and Swift 1.2](http://www.tardis.ventures/2015/05/adventures-with-rac-30-and-swift-12.html)
+* [Awesome-Reactive-Programming-Swift](https://github.com/SideEffects-xyz/Awesome-Reactive-Programming-Swift)
+
+###Demo
+* [SwiftRACGoogleImages](https://github.com/Adlai-Holler/SwiftRACGoogleImages)
+* [TodaysReactiveMenu](https://github.com/s0mmer/TodaysReactiveMenu)
+
+
+###isuue
+* [Extensions for NSControl and UIControl](https://github.com/ReactiveCocoa/ReactiveCocoa/issues/2182)
